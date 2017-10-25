@@ -1,0 +1,52 @@
+
+nav{
+	background-color: #f4645f;
+	margin-bottom: 20px;
+	border: 1px solid #f4645f;
+
+}
+ul{
+	list-style: none;
+}
+a{
+   	padding: 28px 65px;
+   	text-decoration: none;
+	color: #fff;
+}
+li{
+	display: inline-block;
+	border: 2px solid #f4645f;
+}
+li:hover{
+	border-bottom: 2px solid #eee; 
+}
+section{
+	padding: 10px 4%;
+	display: inline-block;
+	width: 70%;
+	border:2px solid #e5e5e5;
+}
+aside{
+	color: #525252;
+	padding: 20px;
+	display: inline-block;
+	width: 29%;
+	border:2px solid #e5e5e5;
+}
+.main{
+	background-color: #fff;
+	color: #525252;
+	display: flex;
+}
+.spacer {
+	margin: 3% 0;
+}
+.header{
+	padding-top: 30px;
+	background: #fff;	
+	height: 50px;
+	border: 1px solid #f4645f;
+	text-align: center;
+	color: #525252;
+}
+/*10 selectores*/
